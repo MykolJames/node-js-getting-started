@@ -1,0 +1,15 @@
+{
+    "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "FXLU96SM9E.com.ahsay.app",
+        "paths": ["*"]
+      },
+      {
+        "appID": "QN4L69TSZN.com.ahsay.app",
+        "paths": ["*"]
+      }
+      ]
+    }
+  }
